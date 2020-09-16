@@ -20,9 +20,24 @@
 
 ## What wireless wheels are available?
 
+Group discussion 
+* https://www.facebook.com/groups/361969411348399/permalink/508168616728477/
+* https://www.facebook.com/groups/361969411348399/permalink/525880661623939/
+
 ### Cube Controls
 
 ### Ascher Racing (wheels + button boxes)
+
+* https://www.ascher-racing.com/product-category/steering-wheels/
+
+## SimRacingBay BB32
+
+* https://www.simracingbay.com/product/bb-pro-32/
+ * Reviewed: https://www.facebook.com/groups/361969411348399/permalink/546700936208578/
+
+## SimCore
+
+* https://simcore.com.au/STD24-WS/
 
 # Games, I mean Sims
 
