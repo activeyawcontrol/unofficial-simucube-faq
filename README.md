@@ -4,11 +4,21 @@
 
 ## Should I buy the Sport or the Pro?
 
+Group discussions:
+
 * https://www.facebook.com/groups/361969411348399/permalink/555002852045053/
 * https://www.facebook.com/groups/361969411348399/permalink/443024709909535/
 * https://www.facebook.com/groups/361969411348399/permalink/536330583912280/
 * https://www.facebook.com/groups/361969411348399/permalink/543191373226201/
 * https://www.facebook.com/groups/361969411348399/permalink/448598999352106/
+
+Youtube videos:
+
+* https://boostedmedia.net/category/sim-racing/hadware-reviews/simucube/
+
+## Should I buy the Pro or the Ultimate?
+
+...
 
 # Steering wheels / wheel rims
 
