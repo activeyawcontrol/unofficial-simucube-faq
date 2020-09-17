@@ -2,6 +2,19 @@
 
 # What to buy
 
+## What Simucube models exist?
+
+Simucube 2 Sport:
+* https://www.simucu.be/sc2sport-direct-drive-wheel-base
+
+Simucube 2 Pro:
+* https://www.simucu.be/sc2pro-direct-drive-wheel-base
+
+Simucube 2 Ultimate:
+* https://www.simucu.be/sc2ultimate-direct-drive-wheel-base
+
+TODO: figure out Simucube 1 models
+
 ## Should I buy the Sport or the Pro?
 
 Group discussions:
@@ -15,6 +28,7 @@ Group discussions:
 Youtube videos:
 
 * https://boostedmedia.net/category/sim-racing/hadware-reviews/simucube/
+
 
 ## Should I buy the Pro or the Ultimate?
 
@@ -48,6 +62,35 @@ Group discussion
 ## SimCore
 
 * https://simcore.com.au/STD24-WS/
+
+
+## What are my wheel options, from cheapest to least cheap?
+
+### Cheapest: replica race wheel, no button box
+
+Replica Momo/OMP style wheels are super cheap.
+
+### Cheap: modify a wheel from a different ecosystem to work on the SC2
+
+Thrustmaster:
+* 
+
+Fanatec:
+* 
+
+### Less cheap: replica race wheel, cheap wired button box
+
+Cheap wired button boxes:
+
+Penguin 
+* 
+
+Needs an SC2 USB adapter
+* 
+
+### Middle: race wheel + wired button box
+
+### More: race wheel + wireless button box
 
 # Games, I mean Sims
 
