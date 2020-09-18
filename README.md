@@ -100,6 +100,14 @@ Needs an SC2 USB adapter
 
 # Games, I mean Sims
 
+## Can I use configurations from the Pro on the Sport?
+
+Yes
+* https://community.granitedevices.com/t/just-got-a-simucube-2-sport-need-help/5830/9
+```
+... the available settings and their function is largely the same, so the same profile settings can be generally used for all Simucube 2 models."
+```
+
 ## Dirt Rally 2.0
 
 * https://www.facebook.com/groups/361969411348399/permalink/588061858739152/
