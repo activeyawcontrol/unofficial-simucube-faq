@@ -45,6 +45,11 @@ Youtube videos:
 
 * https://www.motamec.com/motamec-formula-race-steering-wheel-d-shape-320mm-black-suede-black-spoke.html?___SID=S
 
+## What wheels are available?
+
+Superthread on the granite forums:
+* https://community.granitedevices.com/t/steering-wheels-of-the-sc2-community/3155/41
+
 ## What wireless wheels are available?
 
 Group discussion 
