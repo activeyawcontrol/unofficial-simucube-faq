@@ -70,6 +70,10 @@ Group discussion
 
 * https://nsh-racing.com/en/categorie-produit/hardware/wheels/
 
+### SimTechRacing
+
+* https://simtechracing.co.uk/shop/wireless-wheels/simucube-wireless-wheel-320/
+
 ## What are my wheel options, from cheapest to least cheap?
 
 ### Cheapest: replica race wheel, no button box
