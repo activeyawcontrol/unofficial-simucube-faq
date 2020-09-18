@@ -117,6 +117,10 @@ Needs an SC2 USB adapter
 
 * https://www.facebook.com/groups/361969411348399/permalink/461832671362072/
 
+# Other
+
+* https://community.granitedevices.com/t/one-week-old-simucube-2-ultimate-doesn-t-work/5847/22
+
 # Safety
 
 ## This isn't dangerous right?
