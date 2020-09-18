@@ -98,6 +98,7 @@ Needs an SC2 USB adapter
 
 * https://www.facebook.com/groups/361969411348399/permalink/588061858739152/
 * https://www.facebook.com/groups/361969411348399/permalink/538762857002386/
+* https://community.granitedevices.com/t/dirt-rally-2-0-and-simucube-2/2695/8
 
 ## Assetto Corsa Competizione
 
