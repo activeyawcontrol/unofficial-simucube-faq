@@ -117,8 +117,8 @@ Yes
 ## Assetto Corsa Competizione
 
 * https://www.facebook.com/groups/361969411348399/permalink/595338294678175/
-* https://community.granitedevices.com/t/assetto-corsa-competizione-and-simucube-2/2784?fbclid=IwAR39c9lIzjfAEinw19t9ju-4qEKyc57XvdNDMGl9yzcW0qFzusAih7Si8Y0
 * https://www.facebook.com/groups/361969411348399/permalink/598442671034404/
+* https://community.granitedevices.com/t/assetto-corsa-competizione-and-simucube-2/2784
 
 # Troubleshooting
 
