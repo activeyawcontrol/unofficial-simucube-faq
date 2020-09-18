@@ -24,6 +24,9 @@ Group discussions:
 * https://www.facebook.com/groups/361969411348399/permalink/536330583912280/
 * https://www.facebook.com/groups/361969411348399/permalink/543191373226201/
 * https://www.facebook.com/groups/361969411348399/permalink/448598999352106/
+* https://community.granitedevices.com/t/simucube-2-sport-vs-pro-ffb-quality/4424/6
+* https://community.granitedevices.com/t/just-got-a-simucube-2-sport-need-help/5830/9
+ * Someone who works for granite says it is difficult but possible to feel the difference
 
 Youtube videos:
 
@@ -54,15 +57,18 @@ Group discussion
 
 * https://www.ascher-racing.com/product-category/steering-wheels/
 
-## SimRacingBay BB32
+### SimRacingBay BB32
 
 * https://www.simracingbay.com/product/bb-pro-32/
  * Reviewed: https://www.facebook.com/groups/361969411348399/permalink/546700936208578/
 
-## SimCore
+### SimCore
 
 * https://simcore.com.au/STD24-WS/
 
+### NSH
+
+* https://nsh-racing.com/en/categorie-produit/hardware/wheels/
 
 ## What are my wheel options, from cheapest to least cheap?
 
