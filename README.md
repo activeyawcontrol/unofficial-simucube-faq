@@ -51,6 +51,12 @@ Group discussion
 * https://www.facebook.com/groups/361969411348399/permalink/508168616728477/
 * https://www.facebook.com/groups/361969411348399/permalink/525880661623939/
 
+## Does wired have any advantages over wireless?
+
+The wireless is apparently limited to 28 inputs, which means that the wireless wheels are much less likely to have funky switches due to the number of required inputs.
+
+* TODO: citation needed
+
 ### Cube Controls
 
 ### Ascher Racing (wheels + button boxes)
