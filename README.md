@@ -50,19 +50,21 @@ Youtube videos:
 Superthread on the granite forums:
 * https://community.granitedevices.com/t/steering-wheels-of-the-sc2-community/3155/41
 
-## What wireless wheels are available?
-
-Group discussion 
-* https://www.facebook.com/groups/361969411348399/permalink/508168616728477/
-* https://www.facebook.com/groups/361969411348399/permalink/525880661623939/
-
 ## Does wired have any advantages over wireless?
 
 The wireless is apparently limited to 28 inputs, which means that the wireless wheels are much less likely to have funky switches due to the number of required inputs.
 
 * TODO: citation needed
 
+## What wireless wheels are available?
+
+Group discussion 
+* https://www.facebook.com/groups/361969411348399/permalink/508168616728477/
+* https://www.facebook.com/groups/361969411348399/permalink/525880661623939/
+
 ### Cube Controls
+
+* https://cubecontrols.com/gt-steering-wheels-wireless-collection/
 
 ### Ascher Racing (wheels + button boxes)
 
@@ -91,20 +93,23 @@ The wireless is apparently limited to 28 inputs, which means that the wireless w
 
 Replica Momo/OMP style wheels are super cheap.
 
+Momatec wheels:
+* https://www.motamec.com/motorsport-parts/motamec-interior/steering-wheels.html
+
 ### Cheap: modify a wheel from a different ecosystem to work on the SC2
 
-Thrustmaster:
-* 
+Thrustmaster conversion:
+* https://www.simracingcoach.com/en/contenido/conversion-aros-thrustmaster-osw/
 
-Fanatec:
-* 
+Fanatec conversion:
+* https://www.simracingcoach.com/en/contenido/conversion-aros-fanatec-a-osw-thrustmaster/
 
 ### Less cheap: replica race wheel, cheap wired button box
 
 Cheap wired button boxes:
 
 Penguin 
-* 
+* http://www.penguinrc.com/penguinrc_simulation/made_for_SimuCUBE.html
 
 Needs an SC2 USB adapter
 * 
