@@ -37,6 +37,14 @@ Youtube videos:
 
 ...
 
+# Setup/Installation
+
+## How do I mount the standard, plastic, not-fancy emergency stop button?
+
+Remove the 4 screws. There are two mounting holes which at least  for me lined up perfectly with the slots on  my 80/20 rig.
+
+* https://community.granitedevices.com/t/mounting-the-standard-torque-off-button-e-stop/4184/7
+
 # Steering wheels / wheel rims
 
 ## How do I get a regular steering wheel (without a button box) on my Simucube?
