@@ -94,6 +94,7 @@ Group discussion
 ### SimTechRacing
 
 * https://simtechracing.co.uk/shop/wireless-wheels/simucube-wireless-wheel-320/
+* https://simtechracing.co.uk/shop/wireless-wheels/simucube-wireless-wheel-270/
 
 ## What are my wheel options, from cheapest to least cheap?
 
