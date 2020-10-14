@@ -1,5 +1,17 @@
 # unofficial-simucube-faq
 
+Facebook is bad at structuring information. The idea here is to make it easier to find answers to commonly asked questions.
+
+# What else shouuld I read besides the Simucube owners group?
+
+The Granite forums are also really helpful. A number of Granite employees hang out there and help people.
+
+* https://community.granitedevices.com/c/simucube-2/21
+
+# What preceded the Simucube 2 models?
+
+* TODO: look up the history. OSW, SC1, etc. 
+
 # What to buy
 
 ## What Simucube models exist?
@@ -26,7 +38,7 @@ Group discussions:
 * https://www.facebook.com/groups/361969411348399/permalink/448598999352106/
 * https://community.granitedevices.com/t/simucube-2-sport-vs-pro-ffb-quality/4424/6
 * https://community.granitedevices.com/t/just-got-a-simucube-2-sport-need-help/5830/9
- * Someone who works for granite says it is difficult but possible to feel the difference
+ * Someone who works for Granite says it is difficult but possible to feel the difference
 
 Youtube videos:
 
@@ -80,7 +92,9 @@ Group discussion
 
 ### SimRacingBay BB32
 
+* https://www.simracingbay.com/product/bb-ultra
 * https://www.simracingbay.com/product/bb-pro-32/
+ * They don't seem to be producing this one anymore.
  * Reviewed: https://www.facebook.com/groups/361969411348399/permalink/546700936208578/
 
 ### SimCore
@@ -102,10 +116,14 @@ Group discussion
 
 Replica Momo/OMP style wheels are super cheap.
 
-Momatec wheels:
+Motamec wheels:
 * https://www.motamec.com/motorsport-parts/motamec-interior/steering-wheels.html
 
+Author's opinion: I have a Motamec D-shaped wheel on my NSH button box and it feels great. I also have a Sparco R383 for rally and I'm now questioning whether I should just use the Motamec for everything.
+
 ### Cheap: modify a wheel from a different ecosystem to work on the SC2
+
+You may already have a wheel from a previous wheelbase that you can convert relatively inexpensively.
 
 Thrustmaster conversion:
 * https://www.simracingcoach.com/en/contenido/conversion-aros-thrustmaster-osw/
@@ -119,13 +137,15 @@ Cheap wired button boxes:
 
 Penguin 
 * http://www.penguinrc.com/penguinrc_simulation/made_for_SimuCUBE.html
-
-Needs an SC2 USB adapter
-* 
+* Needs an SC2 USB adapter
 
 ### Middle: race wheel + wired button box
 
+For instance: Cube Controls wired wheels
+
 ### More: race wheel + wireless button box
+
+For instance: Cube Controls wireless wheels
 
 # Games, I mean Sims
 
@@ -136,6 +156,10 @@ Yes
 ```
 ... the available settings and their function is largely the same, so the same profile settings can be generally used for all Simucube 2 models."
 ```
+
+## iRacing
+
+* https://community.granitedevices.com/t/iracing-and-simucube-2/3049
 
 ## Dirt Rally 2.0
 
