@@ -160,6 +160,8 @@ Yes
 ## iRacing
 
 * https://community.granitedevices.com/t/iracing-and-simucube-2/3049
+* https://www.youtube.com/watch?v=zJcHA7BkCTU
+ * This explains force feedback and what to use for settings
 
 ## Dirt Rally 2.0
 
