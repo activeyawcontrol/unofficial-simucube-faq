@@ -90,7 +90,13 @@ Group discussion
 
 * https://www.ascher-racing.com/product-category/steering-wheels/
 
-### SimRacingBay BB32
+### SimRacingBay 
+
+#### BB Ultra (button box only)
+
+* https://www.simracingbay.com/product/bb-ultra/
+
+#### BB32 (wheel + button box)
 
 * https://www.simracingbay.com/product/bb-ultra
 * https://www.simracingbay.com/product/bb-pro-32/
@@ -104,6 +110,11 @@ Group discussion
 ### NSH
 
 * https://nsh-racing.com/en/categorie-produit/hardware/wheels/
+
+### SimLine
+
+* https://www.facebook.com/simline.gt/
+ * They don't advertise wireless wheels but they can absolutely build you one. My rally wheel uses a SimLine wireless button box with a funky switch, paddles and a few buttons. You just have to drop him a Facebook message about what you're looking for. Mine was very affordable.
 
 ### SimTechRacing
 
