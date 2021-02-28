@@ -163,7 +163,8 @@ For instance: Cube Controls wireless wheels
 ## Can I use configurations from the Pro on the Sport?
 
 Yes
-* https://community.granitedevices.com/t/just-got-a-simucube-2-sport-need-help/5830/9
+* https://community.granitedevices.com/t/just-got-a-simucube-2-sport-need-help/5830/5
+
 ```
 ... the available settings and their function is largely the same, so the same profile settings can be generally used for all Simucube 2 models."
 ```
